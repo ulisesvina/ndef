@@ -23,7 +23,9 @@
   "bugs": {
     "url": "https://github.com/ulisesvina/ndef/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "buffer": "^6.0.3"
+  },
   "devDependencies": {
     "mocha": ""
   },
